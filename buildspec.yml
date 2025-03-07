@@ -34,5 +34,5 @@ phases:
 
 env:
   secrets-manager:
-    DOCKER_USERNAME: "example/demo:DOCKER_USERNAME"
-    DOCKER_PASSWORD: "example/demo:DOCKER_PASSWORD"
+    DOCKER_USERNAME: "dockerhub:DOCKER_USERNAME"
+    DOCKER_PASSWORD: "dockerhub:DOCKER_PASSWORD"
